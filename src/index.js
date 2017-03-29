@@ -1,5 +1,6 @@
 const htmlAnalyzer = require('html-analyzer')
 const config = require('./config')
+const fs = require('fs')
 
 function mergeResults (target, origin) {
   let result = {}
@@ -40,5 +41,6 @@ async function run () {
 }
 
 run().then(results => {
-  console.log(results[0])
+  console.log(results)
+  fs.writeFile('results/index.json', JSON.stringify(results, null, 4))
 })
