@@ -6,7 +6,7 @@ We love the web and we want to push it forward. This repo give you insights on h
 
 # How?
 
-The goal is to have useful info from the most widely used websites, this means all that have more than 10M active users.
+The goal is to have useful info from the most widely used websites, this means all that have more than 10M active users. This most popular websites are taken from [Wikipedia list](https://en.wikipedia.org/wiki/List_of_most_popular_websites)
 
 # What?
 

@@ -12,5 +12,8 @@
     "insights"
   ],
   "author": "Carlos Galarza <carloslfu@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "html-analyzer": "0.0.2"
+  }
 }
