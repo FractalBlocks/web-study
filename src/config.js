@@ -23,5 +23,7 @@ module.exports = {
     'https://medium.freecodecamp.com/73-of-programmers-are-web-developers-and-other-insights-from-stack-overflows-massive-2017-survey-89a13b11e370',
     'https://www.duolingo.com/',
     'https://trello.com/',
+    'https://www.nytimes.com',
+    'http://fortune.com',
   ],
 }
